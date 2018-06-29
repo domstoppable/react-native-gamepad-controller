@@ -1,0 +1,26 @@
+{
+	"name": "react-native-gamepad-controller",
+	"version": "0.1.0",
+	"description": "A react-native component to interface with gamepads/joysticks/controllers without using native code.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/domstoppable/react-native-gamepad-controller.git"
+	},
+	"keywords": [
+		"react-native",
+		"gamepad",
+		"joystick",
+		"controller",
+		"bluetooth"
+	],
+	"author": "Dominic Canare",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/domstoppable/react-native-gamepad-controller/issues"
+	},
+	"homepage": "https://github.com/domstoppable/react-native-gamepad-controller",
+	"dependencies": {
+		"react": "16.3.1"
+	}
+}
